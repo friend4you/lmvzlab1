@@ -1,0 +1,13 @@
+D:\projects\lmvzLab1\lmvzLab1\bin\Debug\lmvzLab1.exe.config
+D:\projects\lmvzLab1\lmvzLab1\bin\Debug\lmvzLab1.exe
+D:\projects\lmvzLab1\lmvzLab1\bin\Debug\lmvzLab1.pdb
+D:\projects\lmvzLab1\lmvzLab1\obj\Debug\lmvzLab1.csprojResolveAssemblyReference.cache
+D:\projects\lmvzLab1\lmvzLab1\obj\Debug\lmvzLab1.Form1.resources
+D:\projects\lmvzLab1\lmvzLab1\obj\Debug\lmvzLab1.Properties.Resources.resources
+D:\projects\lmvzLab1\lmvzLab1\obj\Debug\lmvzLab1.csproj.GenerateResource.Cache
+D:\projects\lmvzLab1\lmvzLab1\obj\Debug\lmvzLab1.exe
+D:\projects\lmvzLab1\lmvzLab1\obj\Debug\lmvzLab1.pdb
+D:\projects\lmvzLab1\lmvzLab1\bin\Debug\lmvzLab1.exe.manifest
+D:\projects\lmvzLab1\lmvzLab1\bin\Debug\lmvzLab1.application
+D:\projects\lmvzLab1\lmvzLab1\obj\Debug\lmvzLab1.exe.manifest
+D:\projects\lmvzLab1\lmvzLab1\obj\Debug\lmvzLab1.application
